@@ -1,0 +1,15 @@
+[
+{
+  "modid": "mmccranks",
+  "name": "MMCC Ranks",
+  "description": "MMCC Ranks for 1.7.10",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["132ikl"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
